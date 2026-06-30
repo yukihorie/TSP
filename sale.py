@@ -1,2 +1,1 @@
-
-AMn
+print('check')

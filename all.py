@@ -3,7 +3,7 @@ import random
 import time
 import csv
 from array import array
-
+#あああ
 #確認
 
 # ============================================================
