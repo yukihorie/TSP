@@ -4,6 +4,7 @@ import time
 import csv
 from array import array
 
+#確認
 
 # ============================================================
 # 共通処理
